@@ -14,4 +14,6 @@ public class ContaAplicacaoCTR {
     public String mostardadosContaAplicacao(ContaAplicacaoDTO contaAplicacaoDTO){
     return contaAplicacaoDAO.mostarContaAplicacao(contaAplicacaoDTO);
     }
+
+   
 }

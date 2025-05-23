@@ -8,7 +8,7 @@ package Exercicio2;
  *
  * @author Aluno
  */
-public class ContaPoupancaCRT {
+public class ContaPoupancaCTR {
     ContaPoupancaDAO contaPoupancaDAO = new ContaPoupancaDAO();
     
     public String mostardadosContaPoupanca(ContaPoupancaDTO contaPoupancaDTO){
