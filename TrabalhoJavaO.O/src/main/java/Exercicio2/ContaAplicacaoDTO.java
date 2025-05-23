@@ -8,7 +8,7 @@ package Exercicio2;
  *
  * @author Aluno
  */
-public class ContaAplicacaoDTO {
+public class ContaAplicacaoDTO  extends ContaDTO{
     private double valor_minimo;
     private int tempo_aplicado;
 

@@ -8,7 +8,7 @@ package Exercicio1;
  *
  * @author Aluno
  */
-public class TouroDTO {
+public class TouroDTO extends AnimalDTO {
     private double peso_desmama, peso_20_meses, peso_24_meses;
     private int mes_desmama;
 

@@ -8,7 +8,7 @@ package Exercicio2;
  *
  * @author Aluno
  */
-public class ContaPoupancaDTO {
+public class ContaPoupancaDTO extends ContaDTO {
     private int dia_rendimento;
 
     public int getDia_rendimento() {

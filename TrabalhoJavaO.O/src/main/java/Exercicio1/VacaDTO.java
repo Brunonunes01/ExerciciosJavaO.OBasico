@@ -8,7 +8,7 @@ package Exercicio1;
  *
  * @author Aluno
  */
-public class VacaDTO {
+public class VacaDTO extends AnimalDTO {
     private String mes_prenhez, mes_lactacao;
     private double qtd_leite;
 
